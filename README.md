@@ -53,7 +53,7 @@ The final section is to observe model evaluation metrics. Linear regression, Las
 
 So accuracy of the best model is 84% for this dataset. This performance could be due to various reasons: no proper pattern of data, it may be some negligible noise in the data, different model give different accuracy score. 
 
-# Machine Learning (Regression) Data Pipline
+# Machine Learning (Regression) Data Pipeline
 
 1.	Data Preprocessing
 
